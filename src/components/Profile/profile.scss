@@ -1,0 +1,22 @@
+.form{
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 15px 10px;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        img{
+            height: 200px;
+            width: 200px;
+            margin: 0 auto;
+        }
+        > * {
+            margin-bottom: 10px;
+        }
+    }
+}

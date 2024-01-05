@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "company":"Juniper Data Center",
+        "position":"Frontend Developer",
+        "description":"Add and remove items.",
+        "link":"/todo-list",
+        "responsabilities":[
+            {
+                "description":"work built"
+            },
+            {
+                "description":"algomas"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "company":"Malmur",
+        "position":"Frontend Developer",
+        "description":"Add and remove items.",
+        "link":"/todo-list",
+        "responsabilities":[
+            {
+                "description":"algomas"
+            },
+            {
+                "description":"algomas"
+            }
+        ]
+    },    
+    {
+        "id":3,
+        "company":"Elife",
+        "position":"Frontend Developer",
+        "description":"Add and remove items.",
+        "link":"/todo-list",
+        "responsabilities":[
+            {
+                "description":"algomas"
+            },
+            {
+                "description":"algomas"
+            }
+        ]
+    }
+]

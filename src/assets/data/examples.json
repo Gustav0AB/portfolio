@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"To-Do List",
+        "description":"Add and remove items.",
+        "link":"/todo-list"
+    },
+    {
+        "id":2,
+        "name":"CRUD",
+        "description":"Add, Remove, Get elements.",
+        "link":"/crud"
+    }
+]
